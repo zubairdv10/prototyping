@@ -2,6 +2,8 @@ Advantages of prototyping:
 
 1.Reduced time and cost- improves quality of the specifications and requirements provided to the customer ,with this they can expect higher costs, needed changes and potential project hurdles and most importantly end result disaster
 2.Improved and increased user involovment
+3.Technically understand problems
+4.Conflict resolution
 
 Disadvantages of prototyping:
 
